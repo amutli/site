@@ -3,21 +3,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MS in Applied Economics
+    institution: Boston College
+    year: 2021
+  - course: BA in Politics, Philosophy, Economics
+    institution: Suffolk University
+    year: 2020
+email: "ameomutli@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analysis
+- Forecasting
+- Development Economic Modeling
+- Economics of Immigration
+- Financial Economics
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
